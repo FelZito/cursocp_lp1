@@ -13,7 +13,7 @@
 - [X] __Permitir cadastro do aluno (nome, área de interesses)__
 - [X] __Permitir que o aluno informe a disciplina cursada, com nota__
 - [X] __Avaliar disciplinas cursadas pelo aluno e informar quais poderiam ser cursadas no semestre seguinte, montando uma grade de horários para o mesmo__
-- [X] __Permitir que o aluno troque de disciplinas aa seu bem entender, adptando a sua grade de horários, com nota__
+- [X] __Permitir que o aluno troque de disciplinas ao seu bem entender, adptando a sua grade de horários, com nota__
 
 ### Autores: Herson Felipe (@FelZito) e Adriano Ferreira Cardoso
 ### Nota obtida: 9
